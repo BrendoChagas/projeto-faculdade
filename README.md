@@ -19,7 +19,7 @@ projeto-faculdade/
 
 │
 
-├── index.html         # Página inicial 
+├── index.html          Página inicial 
 
 ├── sobre.html         # Página "Sobre Mim" 
 
