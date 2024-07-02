@@ -17,9 +17,9 @@ A estrutura de diretórios do projeto é a seguinte:
 
 projeto-faculdade/
 │
-├── index.html         # Página inicial
-├── sobre.html         # Página "Sobre Mim"
-├── formacao.html      # Página "Formação"
-├── portfolio.html     # Página "Portfólio"
-├── contato.html       # Página "Contato"
-└── style.css          # Arquivo CSS
+├── index.html         # Página inicial 
+├── sobre.html         # Página "Sobre Mim" 
+├── formacao.html      # Página "Formação" 
+├── portfolio.html     # Página "Portfólio" 
+├── contato.html       # Página "Contato" 
+└── style.css          # Arquivo CSS 
